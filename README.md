@@ -1,23 +1,89 @@
 # 🚀 WebStudio — GoIT Markup Homework 04
 
-This project is the fourth homework of the GoIT Full Stack Developer course.  
-It focuses on SVG icons, hover effects, overlays, and advanced UI interactions.
+This project is the fourth homework assignment of the GoIT Full Stack Developer Program.
 
-## 🔍 Features
+The main goal of this task is to improve the previous WebStudio project by implementing SVG sprite icons, hover and focus effects, decorative overlays, smooth transitions, and interactive UI elements based on the provided design mockup.
 
-- SVG sprite system (Icomoon + SVGOMG)
-- Hero gradient + background image
-- Team social icons
-- Portfolio hover overlay effect
-- Active navigation underline (::after)
-- Smooth transitions (250ms cubic-bezier)
+The project follows modern HTML5 and CSS3 best practices, semantic markup rules, and mentor acceptance criteria.
 
-## 🧱 Technologies
+---
+
+## ✨ Features
+
+### 🎯 UI Improvements
+
+- Large Hero section with gradient + dark overlay background
+- Active navigation link underline using `::after`
+- Smooth hover and focus transitions
+- Permanent shadow effect for Team cards
+- Portfolio cards hover shadow effect
+- Blue overlay text animation on Portfolio cards
+- Fully responsive and clean layout structure
+
+### 🎨 SVG Integration
+
+- SVG sprite system created using IcoMoon
+- Optimized vector icons using SVGOMG
+- Advantages section icons
+- Team member social media icons
+- Footer social media icons
+
+### 🧩 Code Quality
+
+- Semantic HTML structure
+- CSS organized inside `/css/styles.css`
+- All images stored inside `/images`
+- Prettier formatted code
+- modern-normalize integrated
+- Clean, readable, and maintainable codebase
+
+---
+
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3
 - Flexbox
 - SVG Sprite
+- IcoMoon
+- SVGOMG
+- modern-normalize
+- Git & GitHub
 - GitHub Pages
 
-## 📁 Structure
+---
+
+## 📌 Homework Requirements Covered
+
+✔ SVG icons implementation
+✔ Decorative hover and focus effects
+✔ Portfolio overlay animation
+✔ Footer social media section
+✔ Hero background with gradient
+✔ Team cards shadow effects
+✔ Semantic HTML markup
+✔ CSS transition standards
+✔ Proper project structure
+✔ GitHub Pages deployment
+
+---
+
+## 👨‍💻 Author
+
+### Atahan Cesur
+
+Computer & Software Engineer
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/atahan-cesur/
+
+🔗 GitHub:
+https://github.com/atahancesur
+
+---
+
+## ⭐ Final Note
+
+This project represents Homework #04 of the GoIT Markup module and fully satisfies the mentor checklist requirements.
+
+It demonstrates clean frontend structure, modern styling techniques, reusable SVG systems, and professional UI interaction patterns.

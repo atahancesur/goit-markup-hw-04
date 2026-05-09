@@ -319,12 +319,12 @@ img {
 
 .social-link:hover,
 .social-link:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .social-icon {
-    width: 40px;
-    height: 40px;
+    width: 16px;
+    height: 16px;
     fill: #f4f4fd;
 }
 
@@ -479,7 +479,7 @@ img {
 }
 
 .footer-social-list .social-icon {
-    width: 40px;
-    height: 40px;
+    width: 16px;
+    height: 16px;
     fill: #f4f4fd;
 }
